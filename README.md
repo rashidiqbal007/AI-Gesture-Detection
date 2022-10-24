@@ -1,2 +1,2 @@
-# AI-Gesture-Detection
- Gesture Detection 
+# Gesture-Detection
+Gesture FYP
